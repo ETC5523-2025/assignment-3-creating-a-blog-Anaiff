@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Siwen Yang\n\n\nI am a Monash University student, learning Business Analytics. I have learned R for one year. My undergraduate major was Accounting, and I got a Bachelor of Management degree."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog Template",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "Siwen Yang",
+    "section": "",
+    "text": "I am a Monash University student, learning Business Analytics. I have learned R for one year. My undergraduate major was Accounting, and I got a Bachelor of Management degree."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "Siwen Yang",
+    "section": "Contact",
+    "text": "Contact\n\n\n\n\n\n\n\n\n\n\n\n@MikeLydeamore\n\n\n\n\n\n\n\nMikeLydeamore\n\n\n\n\n\n\n\nmichael.lydeamore@monash.edu\n\n\n\n\n\n\n\nMonash University29 Ancora Imparo WayBuilding 6, Room 354Clayton, VIC 3800Australia"
+  }
+]
