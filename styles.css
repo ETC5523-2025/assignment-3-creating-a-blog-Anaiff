@@ -1,7 +1,9 @@
 /* css styles */
 .navbar-dark, .quarto-title-banner {
   background-color: #3CB371;
-  color: white ;
+}
+.quarto-title-banner h1 {
+  color: white;
 }
 <html>
 <head>
@@ -16,6 +18,7 @@
 body {
   background-color:hsl(147, 50%, 95%)
 }
+
 </style>
 </head>
 </html>
