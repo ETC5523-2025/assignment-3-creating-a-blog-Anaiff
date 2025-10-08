@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Siwen Yang\n\n\nI am a Monash University student, learning Business Analytics. I have learned R for one year. My undergraduate major was Accounting, and I got a Bachelor of Management degree."
+    "text": "I am Siwen Yang, a Monash University student. I have learned Business Analytics for one year. My undergraduate major was Accounting, and I have got a Bachelor of Management degree."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -26,5 +26,47 @@
     "title": "Siwen Yang",
     "section": "Contact",
     "text": "Contact\n\n\n\n\n\n\n\n\n\n\n\n@MikeLydeamore\n\n\n\n\n\n\n\nMikeLydeamore\n\n\n\n\n\n\n\nmichael.lydeamore@monash.edu\n\n\n\n\n\n\n\nMonash University29 Ancora Imparo WayBuilding 6, Room 354Clayton, VIC 3800Australia"
+  },
+  {
+    "objectID": "posts/ProblemDescription/index.html",
+    "href": "posts/ProblemDescription/index.html",
+    "title": "Welcome To My Blog Template",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "posts/Conclusion/index.html",
+    "href": "posts/Conclusion/index.html",
+    "title": "Welcome To My Blog Template",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "posts/Analysis/index.html",
+    "href": "posts/Analysis/index.html",
+    "title": "Welcome To My Blog Template",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "posts/DataDescription/index.html",
+    "href": "posts/DataDescription/index.html",
+    "title": "Welcome To My Blog Template",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ETC5523 Blog Assessment",
+    "section": "",
+    "text": "Climate Change Impacts Bushfires: Rising Risks in Southeast Australia\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 1, 2025\n\n\nSiwen Yang\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Blog/index.html",
+    "href": "posts/Blog/index.html",
+    "title": "Climate Change Impacts Bushfires: Rising Risks in Southeast Australia",
+    "section": "",
+    "text": "Bushfires are among the most severe natural disasters in Australia, causing widespread damage to the environment, human health, and the economy. Therefore, understanding their causes is critical. While past bushfires have had many factors, we focus specifically on how anthropogenic (human-made) climate change has influenced bushfire risk in southeast Australia. By clarifying this link, we can better anticipate future hazards and improve adaptation strategies.\n\n\n\n\nFWI7x-SM\n\n\nthe seasonal maximum of the 7-day moving-average maximum Fire Weather Index\n\n\n\n\nMSR-SM\n\n\nthe maximum value of the monthly severity rating during the fire season\n\n\n\n\nTo explore this problem, we rely on long-term climate and fire weather data. The majority of data is sourced from the KNMI Climate Explorer , which includes both historical climate records and the scripts used to perform the extreme value fits. The analysis focuses on southeast Australia, where bushfires have had particularly severe impacts due to both high population density and long-term drying conditions. Key fire risk indicators include the Fire Weather Index (FWI7x-SM) and the Monthly Severity Rating (MSR-SM).\n\n\n\n\n\nBy looking at the historical data in Figure 1, both the Fire Weather Index (FWI7x-SM) and the Monthly Severity Rating (MSR-SM) show strong fluctuations over time, but despite this variability, a clear long-term upward trend emerges, with a notable peak around 2020. While this increase suggests a heightened fire danger, it is important to note that the trend is not statistically significant, as the lower bound of the 95% uncertainty range remains at 0.8. This means that although the data points to a rising risk, the possibility of a decrease cannot be entirely ruled out within the confidence interval.\n\n\n\n\n\nGlobal mean surface temperature, however, provide a stronger indication of change. Figure 2 show that the probability of the high Fire Weather Index values has risen by over 30% since 1900, due to anthropogenic climate change.Therefore, this evidence points to a clear connection between human-driven warming and the escalation of bushfire risk, showing that climate change is making extreme fire weather more common in southeast Australia.\n\n\nOverall, this study confirms that anthropogenic climate change has increased the risk of bushfire in southeast Australia. Fire Weather Index has risen over time. However, climate models contain potential biases, and fire risk is influenced by many additional factors, for example, wind is also a key factor influencing the spread of bushfires(Moradkhani et al., 2020). Therefore, further research is needed to improve the understanding of the climate models and resolutions.\n\n\nRefernece\n\n\nDeb, P., Moradkhani, H., Abbaszadeh, P., Kiem, A. S., Engström, J., Keellings, D., & Sharma, A. (2020). Causes of the Widespread 2019–2020 Australian Bushfire Season. Earth’s Future, 8(11). https://doi.org/10.1029/2020EF001671"
   }
 ]

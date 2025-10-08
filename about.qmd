@@ -11,6 +11,4 @@ about:
       text: Twitter
       href: https://x.com/Anaiff2063
 ---
-
-<title>Siwen Yang</title>
-<p>I am Siwen Yang, a Monash University student. I have learned Business Analytics for one year. My undergraduate major was Accounting, and I got a Bachelor of Management degree. </p>
+<p>I am Siwen Yang, a Monash University student. I have learned Business Analytics for one year. My undergraduate major was Accounting, and I have got a Bachelor of Management degree. </p>

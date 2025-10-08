@@ -1,0 +1,44 @@
+---
+title: "Climate Change Impacts Bushfires: Rising Risks in Southeast Australia"
+author: "Siwen Yang"
+date: "2025-10-01"
+categories: [news]
+---
+<html>
+  <body>
+    <p>Bushfires are among the most severe natural disasters in Australia, causing widespread damage to the environment, human health, and the economy. Therefore, understanding their causes is critical. While past bushfires have had many factors, we focus specifically on how anthropogenic (human-made) climate change has influenced bushfire risk in southeast Australia. By clarifying this link, we can better anticipate future hazards and improve adaptation strategies.
+    </p>
+    <table id="tab-1" style="display: flex; justify-content: center;">
+      <tr>
+        <td>FWI7x-SM</td>
+        <td>the seasonal maximum of the 7-day moving-average maximum Fire Weather Index</td>
+      </tr>
+      <tr>
+        <td>MSR-SM</td>
+        <td>the maximum value of the monthly severity rating during the fire season</td>
+      </tr>
+    </table>
+    <p>To explore this problem, we rely on long-term climate and fire weather data. The majority of data is sourced from 
+    <a href="https://climexp.knmi.nl/bushfires_timeseries.cgi">the KNMI Climate Explorer</a>
+    , which includes both historical climate records and the scripts used to perform the extreme value fits. The analysis focuses on southeast Australia, where bushfires have had particularly severe impacts due to both high population density and long-term drying conditions. Key fire risk indicators include the Fire Weather Index (<a href="#tab-1">FWI7x-SM</a>) and the Monthly Severity Rating (<a href="#tab-1">MSR-SM</a>). 
+    </p>
+    <figure id="fig-1" style="display: flex; justify-content: center;">
+      <img src="f1.png" alt="figure1" >
+    </figure>
+    <p>By looking at the historical data in <a href="#fig-1">Figure 1</a>, both the Fire Weather Index (FWI7x-SM) and the Monthly Severity Rating (MSR-SM) show strong fluctuations over time, but despite this variability, a clear long-term upward trend emerges, with a notable peak around 2020. While this increase suggests a heightened fire danger, it is important to note that the trend is not statistically significant, as the lower bound of the 95% uncertainty range remains at 0.8. This means that although the data points to a rising risk, the possibility of a decrease cannot be entirely ruled out within the confidence interval. 
+    </p>
+    <figure id="fig-2" style="display: flex; justify-content: center;">
+      <img src="f2.png" alt="figure2" >
+    </figure>
+    <p>Global mean surface temperature, however, provide a stronger indication of change. <a href="#fig-2">Figure 2</a> show that the probability of the high Fire Weather Index values has risen by over 30% since 1900, due to anthropogenic climate change.Therefore, this evidence points to a clear connection between human-driven warming and the escalation of bushfire risk, showing that climate change is making extreme fire weather more common in southeast Australia. 
+    </p>
+    <p>Overall, this study confirms that anthropogenic climate change has increased the risk of bushfire in southeast Australia. Fire Weather Index has risen over time. However, climate models contain potential biases, and fire risk is influenced by many additional factors, for example, wind is also a key factor influencing the spread of bushfires<a href="https://monash.primo.exlibrisgroup.com/permalink/61MONASH_AU/162tcri/cdi_proquest_journals_2463722977">(Moradkhani et al., 2020)</a>. Therefore, further research is needed to improve the understanding of the climate models and resolutions. 
+    </p>
+    <h1>Refernece</h1>
+    <p>
+    <i>Deb, P., Moradkhani, H., Abbaszadeh, P., Kiem, A. S., Engström, J., Keellings, D., & Sharma, A. (2020). Causes of the Widespread 2019–2020 Australian Bushfire Season. Earth’s Future, 8(11). https://doi.org/10.1029/2020EF001671</i>
+    </p>
+    
+  </body>
+</html>
+

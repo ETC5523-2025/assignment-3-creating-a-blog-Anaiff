@@ -1,4 +1,21 @@
 /* css styles */
 .navbar-dark, .quarto-title-banner {
-  background-color: #006DAE;
+  background-color: #3CB371;
+  color: white ;
 }
+<html>
+<head>
+<style>
+  table {
+    border: 2px solid grey;
+  }
+  td, th {
+    border: 2px solid grey;
+    padding: 6px 10px;
+  }
+body {
+  background-color:hsl(147, 50%, 95%)
+}
+</style>
+</head>
+</html>

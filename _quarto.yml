@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Climate Change Impacts Bushfires: Rising Risks in Southeast Australia"
+  title: "Nature NEWS"
   navbar:
     right:
       - about.qmd
